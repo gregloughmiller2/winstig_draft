@@ -1,0 +1,3 @@
+service { 'Fax':
+  ensure => absent,
+}
